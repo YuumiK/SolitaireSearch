@@ -57,4 +57,6 @@ Eclipseへのインポート方法(一例)
 	- Working Directoryを選択してNext
 	- Finish
 
-デモでは、コマ数12, DFS+List, BFS+List, A*+List, A*+Hashの4つの手法での探索結果を並列でみることができる。
+SolitarieDemoでは、コマ数12, DFS+List, BFS+List, A*+List, A*+Hashの4つの手法での探索結果を並列でみることができる。
+
+SolitarieDemo2では、コマ数32, A*+Hashの探索結果をみることができる。
